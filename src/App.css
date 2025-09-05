@@ -15,12 +15,15 @@
   display: flex;
   gap: 5px;
 }
+h1{
+  color: rgb(107, 98, 47);
+}
 button{
   background-color:burlywood;
   padding: 8px;
   border: none;
   margin-left: 20px;
-  color: darkolivegreen;
+  color: rgb(107, 98, 47);
 }
 body{
   display: flex;
