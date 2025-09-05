@@ -31,6 +31,7 @@ body{
   justify-content: center;
 }
 .App {
+  color: rgb(107, 98, 47);
   border-radius: 20px;
   padding-top: 50px;
   padding-bottom: 50px;
