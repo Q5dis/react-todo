@@ -76,7 +76,7 @@ export default function App() {
                 <div style={{textDecoration:todo.completed?"line-through":"none", cursor:"pointer"}}
                 onClick={()=>handleComplete(todo.id)}
                 >{todo.text}</div>
-                <button className="del-btn" onClick={()=>handleDeleteTodo(todo.id)}>삭제</button>
+                <button className="del-btn" onClick={()=>handleDeleteTodo(todo.id)}>delete</button>
               </div>
               ))}
           </div>

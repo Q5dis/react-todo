@@ -15,7 +15,13 @@
   display: flex;
   gap: 5px;
 }
-
+button{
+  background-color:burlywood;
+  padding: 8px;
+  border: none;
+  margin-left: 20px;
+  color: darkolivegreen;
+}
 body{
   display: flex;
   align-content: center;
